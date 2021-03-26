@@ -1,2 +1,2 @@
 # NEEZYCalculator
-u might need InteliJ IDEA to run this program
+you might need InteliJ IDEA to run this program.
